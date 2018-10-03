@@ -1,2 +1,2 @@
 print("Hello World!")
-print("Hello flat earth, Wowwww")
+print("Please Say Hello to the moon")
